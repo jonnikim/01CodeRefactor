@@ -10,9 +10,15 @@ In the index.html, all &lt;div&gt; elements were changed to match the Accessibil
 
 Alt tags were added to various images and ARIA labels were added to elements; both providing alternative text for items (such as images that do not load.
 
+Added accessibility for older IE browser versions.
+
 Additionally, changes were made to some CSS to avoid redundancy and for a cleaner UI.
+
+Wasn't able to get the hero image to be a proper hero image.
 
 ## Credits
 
 https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 https://teachaccess.github.io/tutorial/
+https://www.w3schools.com/howto/howto_css_hero_image.asp
+
