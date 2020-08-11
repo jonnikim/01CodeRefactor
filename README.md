@@ -1,10 +1,25 @@
-# did01homework
+# 01CodeRefactor
+![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-HTML-GIT-CSS
 
-This repository describes the nature of the homework for week 1 covering HTML-GIT-CSS.
+Web Content Accessibility Standards (WCAG) are standards that websites should meet. Websites should be created in an accessible way for those with alternative needs, such as a Screen Reader.
 
-The assignment went over Web Content Accessibility Standards (WCAG) that websites should meet. Websites should be created in an accessible way for those with alternative needs, such as a Screen Reader.
+
+
+
+# Table of Contents
+  * [User Story](#User-Story)
+  * [Usage](#Usage)
+  * [Contributing](#Contributing)
+  * [Questions](#Questions)
+
+## User Story
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+## Usage
 
 In the index.html, all &lt;div&gt; elements were changed to match the Accessibility Standards including, but not limited to, &lt;header&gt;, &lt;main&gt;, &lt;aside&gt;, &lt;footer&gt;
 
@@ -16,9 +31,15 @@ Additionally, changes were made to some CSS to avoid redundancy and for a cleane
 
 Wasn't able to get the hero image to be a proper hero image.
 
-## Credits
+## Contributing
+[Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
 
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
-https://teachaccess.github.io/tutorial/
-https://www.w3schools.com/howto/howto_css_hero_image.asp
+## License 
+[MIT](https://github.com/jonnikim/01CodeRefactor/blob/master/LICENSE) | Copyright © 2020 Jonathan Kim
 
+## Questions  
+Have questions? Contact me at:
+##### Email: jonathan213kim@gmail.com
+##### Github: https://github.com/jonnikim
+##### Porftolio: https://dry-springs-76393.herokuapp.com/
+##### LinkedIn: https://www.linkedin.com/in/jonathan-h-kim/
